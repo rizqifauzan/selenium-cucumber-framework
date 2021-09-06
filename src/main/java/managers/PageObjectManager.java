@@ -1,7 +1,7 @@
 package managers;
 
-import pageobjects.HomePage;
 import pageobjects.LoginPage;
+import pageobjects.HomePage;
 import org.openqa.selenium.WebDriver;
 import pageobjects.ProductDetailPage;
 import pageobjects.ProductListPage;
